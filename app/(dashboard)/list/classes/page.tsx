@@ -12,7 +12,7 @@ type Class = {
   id:number,
   name:string,
   capacity:string,
-  supervisor:string,
+  supervisor:string, 
   grade:string
 }
 

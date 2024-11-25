@@ -93,9 +93,16 @@
   margin-bottom: 5px !important;
 }
 
+.main {
+  background-color: burlywood;
+}
 
-
-
+.buttonstyle {
+  background-color: coral;
+  padding: 20px;
+  border-radius: 5px;
+  font-weight: bolder;
+}
 
 
 
